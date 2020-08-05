@@ -14,6 +14,8 @@
 [<img align="left" alt="MatheHD | StackOverFlow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg" />][website]
 [<img align="left" alt="MatheHD | Itch.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/itch-dot-io.svg" />][gamedevelopment]
 
+<br />
+
 ---
 
 ### 🎮 Latest Games
