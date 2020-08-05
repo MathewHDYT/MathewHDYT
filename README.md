@@ -1,10 +1,11 @@
 ### Hi there, I'm Mathew - aka [MathewHDYT][website] 👋
 
-## I'm a Student abd Game Developer
+## I'm a Student and Game Developer
 - 📕 I’m currently learning C++ for embedded hardware
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Learn more about C++ and working with embedded hardware
-- 🔭 I'm also on StackOverflow[website]
+- 🔭 I'm also on [StackOverflow][website]
+- ⚡ I'm also on [Itch.io][gamedevelopment]
 
 <br />
 
@@ -24,3 +25,4 @@
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MathewHDYT&show_icons=true&hide_border=true" />
 
 [website]:https://stackoverflow.com/users/13794611/mathewhd?tab=profile
+[gamedevelopment]:https://mathewhdyt.itch.io
