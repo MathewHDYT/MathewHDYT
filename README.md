@@ -7,11 +7,7 @@
 - 📚 I'm also an active User on [StackOverflow][website]
 - 🎮 I'm also an active User on [Itch.io][gamedevelopment]
 
-<br />
-
 ---
-
-<br />
 
 ### 🎮 Latest Games
 <!-- GAME:START -->
@@ -21,11 +17,8 @@
 - [Staying Alive | Made for the: ⏲️ Winter 2020 Game Jam](https://mathewhdyt.itch.io/staying-alive)
 <!-- GAME:END -->
 
-<br />
-
 ---
 
-<br />
 
 ### 🧰 Languages and Tools:
 
@@ -34,11 +27,8 @@
 <img align="left" alt="C#" width="26px" src="https://w0.pngwave.com/png/328/221/c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-png-clip-art.png" />
 <img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/unity.svg" />
 
-<br />
-
 ---
 
-<br />
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MathewHDYT&show_icons=true&hide_border=true" />
 
