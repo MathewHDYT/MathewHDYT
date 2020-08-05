@@ -20,10 +20,10 @@
 
 ### 🎮 Latest Games
 <!-- GAME:START -->
-- [Survival of the Fishest | Made for the: ⏲️ OLC: Beat The Boredom Game Jam](https://mathewhdyt.itch.io/sof)
-- [Insultagram | Made for the: ⏲️ Weekly Game Jam: Week 139](https://mathewhdyt.itch.io/insultagram)
-- [Flute'n'Drill | Made for the: ⏲️ 3rd Brackeys Game Jam](https://mathewhdyt.itch.io/fluteandndrill)
-- [Staying Alive | Made for the: ⏲️ Winter 2020 Game Jam](https://mathewhdyt.itch.io/staying-alive)
+- [Survival of the Fishest](https://mathewhdyt.itch.io/sof)[Made for the: ⏲️ OLC: Beat The Boredom Game Jam](https://itch.io/jam/olc-beat-the-boredom)
+- [Insultagram](https://mathewhdyt.itch.io/insultagram)[Made for the: ⏲️ Weekly Game Jam: Week 139](https://itch.io/jam/weekly-game-jam-139)
+- [Flute'n'Drill](https://mathewhdyt.itch.io/fluteandndrill)[Made for the: ⏲️ 3rd Brackeys Game Jam](https://itch.io/jam/brackeys-3)
+- [Staying Alive](https://mathewhdyt.itch.io/staying-alive)[Made for the: ⏲️ Winter 2020 Game Jam](https://itch.io/jam/my-first-game-jam-winter-2020)
 <!-- GAME:END -->
 
 ---
