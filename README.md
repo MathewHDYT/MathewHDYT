@@ -11,6 +11,8 @@
 
 ---
 
+<br />
+
 ### 🎮 Latest Games
 <!-- GAME:START -->
 - [Survival of the Fishest | Made for the: ⏲️ OLC: Beat The Boredom Game Jam](https://mathewhdyt.itch.io/sof)
@@ -23,6 +25,8 @@
 
 ---
 
+<br />
+
 ### 🧰 Languages and Tools:
 
 <img align="left" alt="Visual Studio 2019" width="26px" src="https://devblogs.microsoft.com/visualstudio/wp-content/uploads/sites/4/2019/01/visualstudio-1.png" />
@@ -34,6 +38,7 @@
 
 ---
 
+<br />
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MathewHDYT&show_icons=true&hide_border=true" />
 
