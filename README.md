@@ -9,6 +9,13 @@
 
 ---
 
+### Connect with me:
+
+[<img align="left" alt="MatheHD | StackOverFlow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg" />][website]
+[<img align="left" alt="MatheHD | Itch.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/itch-dot-io.svg" />][gamedevelopment]
+
+---
+
 ### 🎮 Latest Games
 <!-- GAME:START -->
 - [Survival of the Fishest | Made for the: ⏲️ OLC: Beat The Boredom Game Jam](https://mathewhdyt.itch.io/sof)
@@ -22,15 +29,17 @@
 
 ### 🧰 Languages and Tools:
 
-<img align="left" alt="Visual Studio 2019" width="26px" src="https://devblogs.microsoft.com/visualstudio/wp-content/uploads/sites/4/2019/01/visualstudio-1.png" />
-<img align="left" alt="C++" width="26px" src="https://img.icons8.com/color/1600/c-plus-plus-logo.png" />
-<img align="left" alt="C#" width="26px" src="https://w0.pngwave.com/png/328/221/c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-png-clip-art.png" />
+<img align="left" alt="Visual Studio 2019" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/visualstudio.svg" />
+<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/csharp.svg" />
+<img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/cplusplus.svg" />
 <img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/unity.svg" />
+
+<br />
 
 ---
 
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MathewHDYT&show_icons=true&hide_border=true" />
+<img align="left" alt="MathewHD's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MathewHDYT&show_icons=true&hide_border=true" />
 
 [website]:https://stackoverflow.com/users/13794611/mathewhd?tab=profile
 [gamedevelopment]:https://mathewhdyt.itch.io
