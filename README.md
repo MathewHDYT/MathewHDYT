@@ -3,7 +3,7 @@
 ## 👦 I'm a Student and Game Developer
 - 🔬 I’m currently learning C++
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Learn more about C++ and embedded hardware
+- 🥅 2021 Goals: Learn more about C++ and embedded hardware
 - 📚 I'm also an active User on [StackOverflow][website]
 - 🎮 I'm also an active User on [Itch.io][gamedevelopment]
 
