@@ -11,8 +11,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="MatheHD | StackOverFlow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg" />][website]
-[<img align="left" alt="MatheHD | Itch.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/itch-dot-io.svg" />][gamedevelopment]
+[<img align="left" alt="MatheHD | StackOverFlow" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Stack_Overflow-512.png" />][website]
+[<img align="left" alt="MatheHD | Itch.io" width="22px" src="https://static.itch.io/images/itchio-textless-white.svg" />][gamedevelopment]
 
 <br />
 
@@ -35,7 +35,7 @@
 <img align="left" alt="Visual Studio 2019" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1280px-Visual_Studio_Icon_2019.svg.png" />
 <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1280px-C_Sharp_wordmark.svg.png" />
 <img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1024px-ISO_C%2B%2B_Logo.svg.png" />
-<img align="left" alt="Unity" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/1920px-Unity_Technologies_logo.svg.png" />
+<img align="left" alt="Unity" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-black-and-white.png" />
 
 <br />
 
