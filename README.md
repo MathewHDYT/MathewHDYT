@@ -32,10 +32,10 @@
 
 ### 🧰 Languages and Tools:
 
-<img align="left" alt="Visual Studio 2019" width="26px" src="https://en.wikipedia.org/wiki/Microsoft_Visual_Studio#/media/File:Visual_Studio_Icon_2019.svg" />
-<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/csharp.svg" />
-<img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/cplusplus.svg" />
-<img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/unity.svg" />
+<img align="left" alt="Visual Studio 2019" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1280px-Visual_Studio_Icon_2019.svg.png" />
+<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1280px-C_Sharp_wordmark.svg.png" />
+<img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1024px-ISO_C%2B%2B_Logo.svg.png" />
+<img align="left" alt="Unity" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/1920px-Unity_Technologies_logo.svg.png" />
 
 <br />
 
