@@ -32,7 +32,7 @@
 
 ### 🧰 Languages and Tools:
 
-<img align="left" alt="Visual Studio 2019" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/visualstudio.svg" />
+<img align="left" alt="Visual Studio 2019" width="26px" src="https://en.wikipedia.org/wiki/Microsoft_Visual_Studio#/media/File:Visual_Studio_Icon_2019.svg" />
 <img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/csharp.svg" />
 <img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/cplusplus.svg" />
 <img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/unity.svg" />
