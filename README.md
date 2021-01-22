@@ -12,7 +12,7 @@
 ### Connect with me:
 
 [<img align="left" alt="MatheHD | StackOverFlow" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Stack_Overflow-512.png" />][website]
-[<img align="left" alt="MatheHD | Itch.io" width="22px" src="https://static.itch.io/images/itchio-textless-white.svg" />][gamedevelopment]
+[<img align="left" alt="MatheHD | Itch.io" width="22px" src="https://static.itch.io/images/itchio-textless-black.svg" />][gamedevelopment]
 
 <br />
 
