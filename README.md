@@ -42,8 +42,9 @@
 ---
 
 
-<img align="left" alt="MathewHD's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MathewHDYT&show_icons=true&hide_border=true&theme=dark"/>
-<img align="left" alt="MathewHD's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathewhdyt&layout=compact&show_icons=true&hide_border=true&theme=dark" />
+<img align="left" alt="MathewHD's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MathewHDYT&show_icons=true&hide_border=true&theme=dark" />
+<br />
+<img align="left" alt="MathewHD's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathewhdyt&layout=compact&hide_border=true&theme=dark" />
 
 [website]:https://stackoverflow.com/users/13794611/mathewhd?tab=profile
 [gamedevelopment]:https://mathewhdyt.itch.io
