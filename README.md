@@ -29,7 +29,6 @@
 
 ---
 
-
 ### 🧰 Languages and Tools:
 
 <img align="left" alt="Visual Studio 2019" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1280px-Visual_Studio_Icon_2019.svg.png" />
@@ -41,14 +40,9 @@
 
 ---
 
-
 ### GitHub Stats:
 
 <img align="left" alt="MathewHD's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MathewHDYT&show_icons=true&hide_border=true&theme=dark" />
-<br />
-
----
-
 <img align="left" alt="MathewHD's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathewhdyt&layout=compact&hide_border=true&theme=dark" />
 
 [website]:https://stackoverflow.com/users/13794611/mathewhd?tab=profile
