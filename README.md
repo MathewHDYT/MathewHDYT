@@ -2,7 +2,7 @@
 
 ## 👦 I'm a Student and Game Developer
 - 🔬 I’m currently learning GDScript
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other people
 - 🥅 2021 Goals: Learn more about GDScript and game development with Godot
 - 📚 I'm also an active User on [StackOverflow][website]
 - 🎮 I'm also an active User on [Itch.io][gamedevelopment]
