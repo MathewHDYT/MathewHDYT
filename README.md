@@ -11,9 +11,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="MatheHD | StackOverFlow" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Stack_Overflow-512.png" />][website]
+[<img align="left" alt="IndieGameDeveloepr | StackOverFlow" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Stack_Overflow-512.png" />][website]
 [<img align="left" alt="MatheHD | Itch.io" width="22px" src="https://static.itch.io/images/itchio-textless-black.svg" />][gamedevelopment]
-
+[<img align="left" alt="HackedNoob | TryHackMe" width="22px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftryhackme-images.s3.amazonaws.com%2Froom-icons%2Fab7ba2fc66b5d4ba5c8c329660012d65.jpeg&f=1&nofb=1" />][cybersecurity]
 <br />
 
 ---
@@ -49,5 +49,6 @@
 <img align="left" alt="MathewHD's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MathewHDYT&show_icons=true&hide_border=true" />
 <img align="left" alt="MathewHD's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathewhdyt&layout=compact&hide_border=true" />
 
-[website]:https://stackoverflow.com/users/13794611/mathewhd?tab=profile
+[website]:https://stackoverflow.com/users/13794611/indiegamedev?tab=profile
 [gamedevelopment]:https://mathewhdyt.itch.io
+[cybersecurity]:https://www.tryhackme.com/p/HackedNoob
