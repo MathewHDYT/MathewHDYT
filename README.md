@@ -20,6 +20,7 @@
 
 ### 🎮 Latest Games
 <!-- GAME:START -->
+- [Satellite Defense](https://mathewhd.itch.io/satellite-defense) | [Made for the: 🕹️ ScoreSpace Jam #17](https://itch.io/jam/scorejam17/rate/1375970)
 - [Flock Together](https://mathewhd.itch.io/flock-together) | [Made for the: ✨ GMTK Game Jam 2021](https://itch.io/jam/gmtk-2021/rate/1081915)
 - [Totally Pixelated Battle Simulator](https://mathewhd.itch.io/tpbs) | [Made for the: 🥉 5th Brackeys Game Jam](https://itch.io/jam/brackeys-5/rate/927877)
 - [Key's not included](https://timooff.itch.io/key-is-not-included) | [Made for the: ❄️ Winter 2021 Game Jam](https://itch.io/jam/my-first-game-jam-winter-2021)
