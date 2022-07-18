@@ -20,6 +20,7 @@
 
 ### 🎮 Latest Games
 <!-- GAME:START -->
+- [Dice of Faith](https://mathewhd.itch.io/dice-of-faith) | [Made for the: ✨ GMTK Game Jam 2022](https://itch.io/jam/gmtk-jam-2022/rate/1619531)
 - [Satellite Defense](https://mathewhd.itch.io/satellite-defense) | [Made for the: 🕹️ ScoreSpace Jam #17](https://itch.io/jam/scorejam17/rate/1375970)
 - [Flock Together](https://mathewhd.itch.io/flock-together) | [Made for the: ✨ GMTK Game Jam 2021](https://itch.io/jam/gmtk-2021/rate/1081915)
 - [Totally Pixelated Battle Simulator](https://mathewhd.itch.io/tpbs) | [Made for the: 🥉 5th Brackeys Game Jam](https://itch.io/jam/brackeys-5/rate/927877)
