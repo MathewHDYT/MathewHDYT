@@ -3,7 +3,7 @@
 ## 👦 I'm a Student and Game Developer
 - 🔬 I’m currently learning Rust
 - 👯 I’m looking to collaborate with other people
-- 🥅 2023 Goals: Learn more about Rust
+- 🥅 Future Goals: Learn more about Rust
 - 📚 I'm also an active User on [StackOverflow][website]
 - 🎮 I'm also an active User on [Itch.io][gamedevelopment]
 
