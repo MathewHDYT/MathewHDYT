@@ -57,4 +57,3 @@
 
 [website]:https://stackoverflow.com/users/13794611/indiegamedev?tab=profile
 [gamedevelopment]:https://mathewhdyt.itch.io
-[cybersecurity]:https://www.tryhackme.com/p/HackedNoob
